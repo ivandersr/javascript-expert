@@ -1,0 +1,23 @@
+[
+  {
+    "id": "8851bdf1-0602-43f3-96db-83c769898066",
+    "name": "Aventador",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "fba24ca5-f711-4ba7-a29f-672c6d2a5ff8",
+    "name": "Model T",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "99d4a5d0-f2b2-4e06-a172-651e4e48c42a",
+    "name": "Camry",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  }
+]

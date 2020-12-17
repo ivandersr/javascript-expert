@@ -1,0 +1,23 @@
+[
+  {
+    "id": "0c5b0c24-eba8-47bc-94eb-72f7f17f8e26",
+    "name": "Spyder",
+    "releaseYear": 2019,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "10fcec56-7b7e-4e1f-965c-da0f7faa0184",
+    "name": "Ranchero",
+    "releaseYear": 2019,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "0d01bfb6-56a6-493f-adbb-6e499d180d4c",
+    "name": "Element",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  }
+]
