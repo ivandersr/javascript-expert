@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha -w --recursive --parallel test/*.test.js",
+    "test:cov": "npx nyc npx mocha --parallel test/*.test.js",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "nyc": "^15.1.0",
+    "pdf-parse": "^1.1.1"
+  },
+  "dependencies": {
+    "safe-regex": "^2.1.1"
+  }
+}
